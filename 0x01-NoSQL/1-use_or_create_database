@@ -1,0 +1,3 @@
+// creates databases my_db
+
+use my_db
